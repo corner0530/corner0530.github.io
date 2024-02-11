@@ -1,7 +1,17 @@
 # ysumita530.github.io
-
-## ページの追加
-
+## Hugoの使い方のメモ
+### サーバーを建てる
 ```bash
-$ hugo new content [path].md
+$ hugo server
 ```
+### 内容を追加する
+```bash
+$ hugo new [path].md
+```
+### draftでサイトを見る
+```bash
+$ hugo server --buildDrafts
+$ hugo server -D
+```
+### サイトの設定
+`config.toml`を開いて編集する
