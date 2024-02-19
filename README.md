@@ -1,4 +1,4 @@
-# ysumita530.github.io
+# corner0530.github.io
 ## Hugoの使い方のメモ
 ### サーバーを建てる
 ```bash
