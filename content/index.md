@@ -1,7 +1,9 @@
 ---
-title: "corner0530"
+title: "Home"
 date: YYYY-MM-DD
 draft: true
 ---
 
-Hi there 👋
+# corner0530's home page
+
+Welcome! 👋

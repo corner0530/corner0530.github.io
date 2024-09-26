@@ -3,3 +3,17 @@ languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "corner0530"
 theme = "ananke"
+
+[[Menus.main]]
+Name = "home"
+URL = "/"
+weight = 1
+
+[[Menus.main]]
+Name = "about"
+URL = "/about"
+weight = 1
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/corner0530"
