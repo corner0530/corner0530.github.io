@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: YYYY-MM-DD
-draft: true
+draft: false
 ---
 
 # 角田 康明 (Yasuaki Sumita)

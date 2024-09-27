@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: YYYY-MM-DD
-draft: true
+draft: false
 ---
 
 # corner0530's home page
