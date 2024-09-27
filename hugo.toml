@@ -1,8 +1,11 @@
 baseURL = "https://corner0530.github.io/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "corner0530"
+title = "corner0530.github.io"
 theme = "ananke"
+
+[markup.goldmark.renderer]
+unsafe = true
 
 [[Menus.main]]
 Name = "home"
