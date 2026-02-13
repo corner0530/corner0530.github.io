@@ -1,7 +1,7 @@
 ---
 layout: home
+title: Home
+permalink: /
 ---
 
-# Yasuaki Sumita's Homepage
-
-Hello, I'm Yasuaki Sumita, a 2nd-year master's student at Graduate School of Informatics, Kyoto University.
+Hello. I'm Yasuaki Sumita (角田 康明), a 2nd-year master's student at Graduate School of Informatics, Kyoto University.
