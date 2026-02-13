@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Yasuaki Sumita (角田 康明)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Email: sumita.yasuaki.73a((at))st.kyoto-u.ac.jp
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Publication
 
+1. <u>Yasuaki Sumita</u>, Koh Takeuchi, and Hisashi Kashima. Cognitive Biases in Large Language Models: A Survey and Mitigation Experiments. SAC 2025. [[arXiv](https://arxiv.org/abs/2412.00323)]
 
-[jekyll-organization]: https://github.com/jekyll
+## Education
+
+- Master of Informatics. Kyoto University. 2024.4 -- Present.
+- Bachelor of Engineering. Kyoto University. 2020.4 -- 2024.3.
+
+## Experiences
+
+- Software Engineer, Studio Radish, 2022.5 -- 2026.1
+- Research Internship, NTT, 2024.8
+
+## Skills
+
+- Applied Information Technology Engineer Examination, 2021.12
+- TOEIC L&R 780, 2023.5
