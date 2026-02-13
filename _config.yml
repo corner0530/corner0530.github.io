@@ -1,12 +1,12 @@
 # Site settings
-title: "Yasuaki Sumita"
-description: "Yasuaki Sumita's website"
-domain: "corner0530.github.io"
-url: "https://corner0530.github.io"
+title: Yasuaki Sumita
+description: Yasuaki Sumita's website
+domain: corner0530.github.io
+url: https://corner0530.github.io
 github_username: corner0530
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
