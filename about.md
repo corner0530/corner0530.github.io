@@ -17,7 +17,7 @@ Email: sumita.yasuaki.73a((at))st.kyoto-u.ac.jp
 
 ## Experiences
 
-- Software Engineer, Studio Radish, 2022.5 -- 2026.1
+- Software Engineer, Studio Radish, 2022.5 -- 2026.3
 - Research Internship, NTT, 2024.8
 
 ## Skills
