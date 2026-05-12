@@ -1,11 +1,8 @@
 # Site settings
 title: Yasuaki Sumita
 description: Yasuaki Sumita's website
-domain: corner0530.github.io
-url: https://corner0530.github.io
-github_username: corner0530
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
