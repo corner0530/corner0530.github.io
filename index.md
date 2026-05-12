@@ -16,7 +16,7 @@ Hello. I'm Yasuaki Sumita (角田 康明), a 1st-year PhD student at Graduate Sc
 
 ## Publications
 
-- **Yasuaki Sumita**, Koh Takeuchi, and Hisashi Kashima. Cognitive Biases in Large Language Models: A Survey and Mitigation Experiments. *SAC 2025*. [[arXiv](https://arxiv.org/abs/2412.00323)]
+1. **Yasuaki Sumita**, Koh Takeuchi, and Hisashi Kashima. Cognitive Biases in Large Language Models: A Survey and Mitigation Experiments. _In Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing (SAC 2025)_. [[arXiv](https://arxiv.org/abs/2412.00323)]
 
 ## Experiences
 
@@ -25,7 +25,7 @@ Hello. I'm Yasuaki Sumita (角田 康明), a 1st-year PhD student at Graduate Sc
 
 ## Education
 
-- Doctor of Informatics. Kyoto University. 2026.4 -- Present.
+- Ph.D. in Informatics. Kyoto University. 2026.4 -- Present.
   - Supervisor: Prof. Hisashi Kashima
 - Master of Informatics. Kyoto University. 2024.4 -- 2026.3.
   - Supervisor: Prof. Toshiyuki Tanaka

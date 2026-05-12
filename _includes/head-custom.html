@@ -1,0 +1,36 @@
+<style>
+  .page-header {
+    position: relative;
+  }
+  .lang-switcher {
+    position: absolute;
+    top: 1rem;
+    right: 1.5rem;
+    font-size: 1.1rem;
+  }
+  .lang-switcher a {
+    color: rgba(255, 255, 255, 0.75);
+    text-decoration: none;
+  }
+  .lang-switcher a:hover {
+    color: #fff;
+    text-decoration: underline;
+  }
+  .lang-switcher .current-lang {
+    color: #fff;
+    font-weight: bold;
+  }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var isJa = window.location.pathname.indexOf('index_ja') !== -1;
+    var header = document.querySelector('.page-header');
+    if (!header) return;
+    var div = document.createElement('div');
+    div.className = 'lang-switcher';
+    div.innerHTML = isJa
+      ? '<a href="/">English</a> / <span class="current-lang">日本語</span>'
+      : '<span class="current-lang">English</span> / <a href="/index_ja">日本語</a>';
+    header.appendChild(div);
+  });
+</script>
