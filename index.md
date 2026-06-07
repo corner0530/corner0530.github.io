@@ -28,13 +28,12 @@ Hello. I'm Yasuaki Sumita (角田 康明), a 1st-year PhD student at Kashima-Tak
 
 ## Experiences
 
-- Research Assistant, Kashima-Takeuchi Lab, Kyoto University, 2026.4 -- Present.
 - Research Internship, NTT Social Informatics Laboratories, 2024.8.
 - Software Engineer (part-time), Studio Radish, 2022.5 -- 2026.3.
 
 ## Education
 
-- Ph.D. in Informatics. Kyoto University. 2026.4 -- Present.
+- PhD course. Kyoto University. 2026.4 -- Present.
   - Supervisor: Prof. Hisashi Kashima
 - Master of Informatics. Kyoto University. 2024.4 -- 2026.3.
   - Supervisor: Prof. Toshiyuki Tanaka
