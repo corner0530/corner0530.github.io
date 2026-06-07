@@ -1,6 +1,6 @@
 # Yasuaki Sumita
 
-Hello. I'm Yasuaki Sumita (角田 康明), a 1st-year PhD student at Kashima-Takeuchi Lab, Intelligence Science and Technology Course, Graduate School of Informatics, Kyoto University.
+Hello. I'm Yasuaki Sumita (角田 康明), a PhD student at Kashima-Takeuchi Lab, Intelligence Science and Technology Course, Graduate School of Informatics, Kyoto University.
 
 ## Contact
 
@@ -33,11 +33,11 @@ Hello. I'm Yasuaki Sumita (角田 康明), a 1st-year PhD student at Kashima-Tak
 
 ## Education
 
-- PhD course. Kyoto University. 2026.4 -- Present.
+- Doctoral Program. Graduate School of Informatics, Kyoto University. 2026.4 -- Present.
   - Supervisor: Prof. Hisashi Kashima
-- Master of Informatics. Kyoto University. 2024.4 -- 2026.3.
+- Master of Informatics. Graduate School of Informatics, Kyoto University. 2024.4 -- 2026.3.
   - Supervisor: Prof. Toshiyuki Tanaka
-- Bachelor of Engineering. Kyoto University. 2020.4 -- 2024.3.
+- Bachelor of Engineering. Faculty of Engineering, Kyoto University. 2020.4 -- 2024.3.
   - Supervisor: Prof. Hisashi Kashima
 
 ## Skills
