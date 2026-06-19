@@ -1,3 +1,25 @@
+{% if page.last_updated %}
+<style>
+  .last-updated {
+    font-size: 0.85rem;
+    color: #767676;
+    margin-top: 2rem;
+    border-top: 1px solid #e1e4e8;
+    padding-top: 0.5rem;
+  }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var mainContent = document.querySelector('.main-content');
+    if (!mainContent) return;
+    var isJa = window.location.pathname.indexOf('index_ja') !== -1;
+    var p = document.createElement('p');
+    p.className = 'last-updated';
+    p.textContent = (isJa ? '最終更新日: ' : 'Last updated: ') + '{{ page.last_updated }}';
+    mainContent.appendChild(p);
+  });
+</script>
+{% endif %}
 <style>
   .page-header {
     position: relative;
