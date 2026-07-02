@@ -1,10 +1,10 @@
 ---
-last_updated: "2026-06-19"
+last_updated: "2026-07-02"
 ---
 
 # Yasuaki Sumita
 
-Hello. I'm Yasuaki Sumita (角田 康明), a PhD student at Kashima-Takeuchi Lab, Intelligence Science and Technology Course, Graduate School of Informatics, Kyoto University.
+Hello. I'm Yasuaki Sumita (角田 康明), a 1st-year PhD student at Kashima-Takeuchi Lab, Intelligence Science and Technology Course, Graduate School of Informatics, Kyoto University.
 
 ## Contact
 
@@ -32,8 +32,12 @@ Hello. I'm Yasuaki Sumita (角田 康明), a PhD student at Kashima-Takeuchi Lab
 
 ## Experiences
 
-- Research Internship, NTT Social Informatics Laboratories, 2024.8.
-- Software Engineer (part-time), Studio Radish, 2022.5 -- 2026.3.
+- Research Internship. NTT Social Informatics Laboratories. 2024.8.
+- Software Engineer (part-time). Studio Radish. 2022.5 -- 2026.3.
+
+## Research Grants
+
+- DoGS NEXT AI Program. Kyoto University. 2026.4 -- 2029.3.
 
 ## Education
 
